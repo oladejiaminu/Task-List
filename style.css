@@ -1,0 +1,22 @@
+.head{
+    background-color: blue;
+    padding: 5px;
+    text-align: center;
+    color: white;
+}
+.parent{
+width: 360px;
+margin: 100px auto;
+border: 2px solid brown;
+}
+.wrapper{
+    display:flex;
+
+}
+button{
+    background-color: brown;
+    padding:5px;
+}
+input{
+    flex:1 1 0;
+}
