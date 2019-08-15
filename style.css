@@ -20,3 +20,13 @@ button{
 input{
     flex:1 1 0;
 }
+.design{
+    color:red;
+    text-decoration: line-through;
+}
+ul{
+    list-style: none;
+}
+span{
+    background-color: aqua;
+}
